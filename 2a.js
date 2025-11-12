@@ -35,3 +35,10 @@ app.listen(PORT, () => {
     </body>
 
 </html>
+
+
+2a))  Node -v
+Npm install
+ Npm install express
+ Npm install express ejs
+node server.js
